@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_b">你的艺术更可爱，更温和。</string>
+    <string name="dialog_text">此对话框“”“小号字符串没有本地化。对于每一个语言环境，这里的文字将来自值/ strings.xml。</string>
+    <string name="dialog_title">没有本地化</string>
+    <string name="text_a">我会比较你一夏“，”“天吗？</string>
+    <string name="app_name">你好，本地化</string>    
+</resources>

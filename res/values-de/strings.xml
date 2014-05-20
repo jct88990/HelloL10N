@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="text_b">Du bist schöner und gemäßigter.</string>    
+    <string name="text_a">Soll ich vergleichen dich einem Sommertag &amp;quot;\'&amp;quot; s Tag?</string>
+    <string name="app_name">Hallo, L10N</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_b">你是更可愛，更溫和。</string>
+    <string name="dialog_text">這個對話框中的“\'”S字符串未本地化。對於每一個區域，這裡的文字將來自值/ strings.xml。</string>
+    <string name="dialog_title">沒有本地化</string>
+    <string name="text_a">要不要我給你一個夏天比較“\'”節？</string>
+    <string name="app_name">您好，L10N</string>    
+</resources>
